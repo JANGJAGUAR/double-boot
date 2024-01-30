@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player2D
+  - Trap
+  - WALL
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player3D
+  - Water
+  - UI
+  - ClearArea
+  - 2D
+  - 3D
+  - Player2D
+  - WALL
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
