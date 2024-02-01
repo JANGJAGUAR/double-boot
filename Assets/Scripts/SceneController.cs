@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class SceneController : Singleton<SceneController>
 {
-    public int maxLevel = 20;
+    public int maxLevel = 13;
     public int currentStage;
 
     public void LoadStage(string name)

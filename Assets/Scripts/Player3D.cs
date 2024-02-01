@@ -94,7 +94,7 @@ public class Player3D : MonoBehaviour
 
     private IEnumerator WaitAndMoveScene()
     {
-        yield return new WaitForSeconds(5f);
+        yield return new WaitForSeconds(2f);
         var level = Convert.ToInt32(SceneManager.GetActiveScene().name.Replace("Stage", string.Empty));
         if (level == SceneController.instance.maxLevel)
         {
