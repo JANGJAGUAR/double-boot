@@ -1,2 +1,2 @@
 # doubleboot
- Unity Project - 2024 UNIJAM
+ UNIJAM 2024 Project
